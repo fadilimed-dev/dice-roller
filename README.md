@@ -34,9 +34,6 @@ Click the "Roll Dice" button to roll the dice and see the result displayed on th
 ## Contributing
 Feel free to fork the repository and submit pull requests for any improvements or features.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 
 
